@@ -1,0 +1,28 @@
+/* CSS files add styling rules to your content */
+
+td, th{
+  border: 3px solid black; 
+  width: 50px;
+  height: 40px;
+}
+#color_1{
+  background-color: black;
+}
+#color_2{
+  background-color: yellow;
+}
+#color_3{
+  background-color: green;
+}
+#color_4{
+  background-color: blue;
+}
+#color_5{
+  background-color: pink;
+}
+#color_6{
+  background-color: grey;
+}
+#color_7{
+  background-color: red;
+}
